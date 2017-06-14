@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: blue;
+}
+
+header {
+  padding: 10px;
+  background: #333;
+  color: purple;
+  text-align: center;
+}
+
+nav {
+  width: 150px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: white;
+  color: #111;
+  margin-right: 15px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 650px;
+  height: 400px;
+  padding: 10px;
+  margin-right: 5px;
+}
+
+article {
+    text-align: center;
+    color: blue;
+}
+
+section {
+  width: 650px;
+  float: left; /* don't modify */
+  padding: 5px;
+  background-color: #888;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: #333;
+  text-align: center;
+}

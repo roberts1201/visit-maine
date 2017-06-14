@@ -1,0 +1,56 @@
+html {
+  height: 100;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background: #888;
+}
+
+a {
+  color: #fff;
+}
+
+header {
+  background: blue;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  height: 100%;
+  float: left;
+  margin-right: 20px;
+  background: darkblue;
+}
+
+nav ul{
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom:10px;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+  text-align: justify;
+}
+
+section img {
+  width: 550px;
+  height: 550px;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: #fff;
+  text-align: right;
+}
